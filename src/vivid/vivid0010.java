@@ -12,7 +12,7 @@ public class vivid0010 {
 	}
 
 	public void yellow(){
-		colors = 3;
+		colors = 4;
 	}
 
 	public void main(){
